@@ -4,7 +4,7 @@
 
 ## 📫 Connect with me
 - Email: jacobej15@gmail.com
-- LinkedIn: Jacobe Johnson
+- LinkedIn: Jacobe Johnson https://www.linkedin.com/in/jacobe-johnson-7b12a1269/
   
 ## Check out my app and repository
 - Live app: Guess the Color https://jacobej15.github.io/color-guessing-game/
